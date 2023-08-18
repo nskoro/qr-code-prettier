@@ -1,9 +1,9 @@
-# QR Code Styling
+# QR Code Prettier
 [![Version](https://img.shields.io/npm/v/qr-code-styling.svg)](https://www.npmjs.org/package/qr-code-styling)
 
 JavaScript library for generating QR codes with a logo and styling.
 
-Try it here https://qr-code-styling.com
+a fork of: https://qr-code-styling.com
 
 If you have issues / suggestions / notes / questions, please open an issue or contact me. Let's create a cool library together.
 ### Examples
