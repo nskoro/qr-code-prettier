@@ -1,5 +1,5 @@
 # QR Code Prettier
-[![Version](https://img.shields.io/npm/v/qr-code-styling.svg)](https://www.npmjs.org/package/qr-code-styling)
+[![Version](https://img.shields.io/npm/v/qr-code-prettier.svg)](https://www.npmjs.org/package/qr-code-prettier)
 
 JavaScript library for generating QR codes with a logo and styling.
 
@@ -8,15 +8,15 @@ a fork of: https://qr-code-styling.com
 If you have issues / suggestions / notes / questions, please open an issue or contact me. Let's create a cool library together.
 ### Examples
 <p float="left">
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/facebook_example_new.png" width="240" />
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/qr_code_example.png" width="240" />
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/telegram_example_new.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/facebook_example_new.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/qr_code_example.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/telegram_example_new.png" width="240" />
 </p>
 
 ### Installation
 
 ```
-npm install qr-code-styling
+npm install qr-code-prettier
 ```
 
 ### Usage
@@ -27,7 +27,7 @@ npm install qr-code-styling
 <head>
     <meta charset="UTF-8">
     <title>QR Code Styling</title>
-    <script type="text/javascript" src="https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/qr-code-prettier@1.5.0/lib/qr-code-prettier.js"></script>
 </head>
 <body>
 <div id="canvas"></div>
@@ -60,17 +60,17 @@ npm install qr-code-styling
 ```
 ---
 
-[**React example (Codesandbox)**](https://codesandbox.io/s/qr-code-styling-react-example-l8rwl?file=/src/App.js)
+[**React example (Codesandbox)**](https://codesandbox.io/s/qr-code-prettier-react-example-l8rwl?file=/src/App.js)
 
 [**Angular example (Codesandbox)**](https://codesandbox.io/s/agitated-panini-tpgb2?file=/src/app/app.component.ts)
 
 ---
 
-[**React example (source)**](https://github.com/kozakdenys/qr-code-styling-examples/tree/master/examples/react)
+[**React example (source)**](https://github.com/kozakdenys/qr-code-prettier-examples/tree/master/examples/react)
 
-[**Angular example (source)**](https://github.com/kozakdenys/qr-code-styling-examples/tree/master/examples/angular)
+[**Angular example (source)**](https://github.com/kozakdenys/qr-code-prettier-examples/tree/master/examples/angular)
 
-[**Vue example (source)**](https://github.com/kozakdenys/qr-code-styling-examples/tree/master/examples/vue)
+[**Vue example (source)**](https://github.com/kozakdenys/qr-code-prettier-examples/tree/master/examples/vue)
 
 ---
 
@@ -214,5 +214,5 @@ extension|string (`'png' 'jpeg' 'webp' 'svg'`)|`'png'`      |File extension
 
 ### License
 
-[MIT License](https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/LICENSE). Copyright (c) 2021 Denys Kozak
+[MIT License](https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/LICENSE). Copyright (c) 2021 Denys Kozak
 
