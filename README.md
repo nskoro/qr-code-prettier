@@ -27,7 +27,7 @@ npm install qr-code-prettier
 <head>
     <meta charset="UTF-8">
     <title>QR Code Styling</title>
-    <script type="text/javascript" src="https://unpkg.com/qr-code-prettier@1.5.0/lib/qr-code-prettier.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/qr-code-prettier@1.0.2/lib/qr-code-styling.js"></script>
 </head>
 <body>
 <div id="canvas"></div>
