@@ -1,7 +1,7 @@
 # QR Code Prettier
 [![Version](https://img.shields.io/npm/v/qr-code-prettier.svg)](https://www.npmjs.org/package/qr-code-prettier)
 
-##This is a for of the project `qr-code-styling` and has a fix for the drawing issue on dots option.
+## This is a for of the project `qr-code-styling` and has a fix for the drawing issue on dots option.
 
 JavaScript library for generating QR codes with a logo and styling.
 
