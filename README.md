@@ -8,9 +8,9 @@ a fork of: https://qr-code-styling.com
 If you have issues / suggestions / notes / questions, please open an issue or contact me. Let's create a cool library together.
 ### Examples
 <p float="left">
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/facebook_example_new.png" width="240" />
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/qr_code_example.png" width="240" />
-<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-prettier/master/src/assets/telegram_example_new.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/facebook_example_new.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/qr_code_example.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/telegram_example_new.png" width="240" />
 </p>
 
 ### Installation
